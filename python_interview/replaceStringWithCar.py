@@ -1,0 +1,6 @@
+s=input("Enter string :")
+r=input("Enter replace car :")
+b=s.split(" ")
+print(b)
+d=r.join(b)
+print(d)
